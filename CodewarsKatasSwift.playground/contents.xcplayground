@@ -9,5 +9,7 @@
         <page name='PersonilazedMessage'/>
         <page name='ReduceButGrow'/>
         <page name='Summination'/>
+        <page name='IsDivisible'/>
+        <page name='CenturyFromYear'/>
     </pages>
 </playground>
