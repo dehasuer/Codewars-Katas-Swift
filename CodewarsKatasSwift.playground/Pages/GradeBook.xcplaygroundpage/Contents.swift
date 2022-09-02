@@ -1,0 +1,16 @@
+func getGrade(_ s1: Int, _ s2: Int, _ s3: Int) -> String {
+  var score = (s1 + s2 + s3)/3
+  if score >= 90{
+    return "A"
+  }else if score < 90 && score >= 80 {
+    return "B"
+  }else if score < 80 && score >= 70 {
+    return "C"
+  }else if score < 70 && score >= 60 {
+    return "D"
+  }else {
+    return "F"
+  }
+}
+
+//Complete the function so that it finds the average of the three scores passed to it and returns the letter value associated with that grade.
