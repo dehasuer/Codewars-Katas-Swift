@@ -11,5 +11,7 @@
         <page name='Summination'/>
         <page name='IsDivisible'/>
         <page name='CenturyFromYear'/>
+        <page name='YouOnlyNeedOne'/>
+        <page name='TimeInMs'/>
     </pages>
 </playground>
