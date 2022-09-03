@@ -16,5 +16,6 @@
         <page name='CountTheMonkeys'/>
         <page name='DollarsAndCents'/>
         <page name='GetTheMeanOfAnArray'/>
+        <page name='DifferenceOfVolumes'/>
     </pages>
 </playground>
