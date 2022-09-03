@@ -14,5 +14,7 @@
         <page name='YouOnlyNeedOne'/>
         <page name='TimeInMs'/>
         <page name='CountTheMonkeys'/>
+        <page name='DollarsAndCents'/>
+        <page name='GetTheMeanOfAnArray'/>
     </pages>
 </playground>
