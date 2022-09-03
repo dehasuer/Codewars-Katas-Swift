@@ -13,5 +13,6 @@
         <page name='CenturyFromYear'/>
         <page name='YouOnlyNeedOne'/>
         <page name='TimeInMs'/>
+        <page name='CountTheMonkeys'/>
     </pages>
 </playground>
