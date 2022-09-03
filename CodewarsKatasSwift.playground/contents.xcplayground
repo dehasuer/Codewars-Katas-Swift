@@ -18,5 +18,6 @@
         <page name='GetTheMeanOfAnArray'/>
         <page name='DifferenceOfVolumes'/>
         <page name='TakeTheFirstNElement'/>
+        <page name='ConvertNumbertoReversedArrayofDigits'/>
     </pages>
 </playground>
