@@ -19,5 +19,7 @@
         <page name='DifferenceOfVolumes'/>
         <page name='TakeTheFirstNElement'/>
         <page name='ConvertNumbertoReversedArrayofDigits'/>
+        <page name='ReversedSequence'/>
+        <page name='RepeatStr'/>
     </pages>
 </playground>
