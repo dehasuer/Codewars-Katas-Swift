@@ -22,5 +22,6 @@
         <page name='ReversedSequence'/>
         <page name='RepeatStr'/>
         <page name='CheckBool'/>
+        <page name='EvenOrOdd'/>
     </pages>
 </playground>
