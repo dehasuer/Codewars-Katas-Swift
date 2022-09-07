@@ -21,5 +21,6 @@
         <page name='ConvertNumbertoReversedArrayofDigits'/>
         <page name='ReversedSequence'/>
         <page name='RepeatStr'/>
+        <page name='CheckBool'/>
     </pages>
 </playground>
