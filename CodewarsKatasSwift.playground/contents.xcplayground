@@ -23,5 +23,6 @@
         <page name='RepeatStr'/>
         <page name='CheckBool'/>
         <page name='EvenOrOdd'/>
+        <page name='ReturningStrings'/>
     </pages>
 </playground>
