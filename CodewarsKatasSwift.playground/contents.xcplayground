@@ -24,5 +24,6 @@
         <page name='CheckBool'/>
         <page name='EvenOrOdd'/>
         <page name='ReturningStrings'/>
+        <page name='SimpleMultplication'/>
     </pages>
 </playground>
