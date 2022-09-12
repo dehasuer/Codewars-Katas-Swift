@@ -25,5 +25,6 @@
         <page name='EvenOrOdd'/>
         <page name='ReturningStrings'/>
         <page name='SimpleMultplication'/>
+        <page name='ReversedString'/>
     </pages>
 </playground>
