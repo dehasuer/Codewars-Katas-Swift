@@ -26,5 +26,6 @@
         <page name='ReturningStrings'/>
         <page name='SimpleMultplication'/>
         <page name='ReversedString'/>
+        <page name='SumOfPositive'/>
     </pages>
 </playground>
