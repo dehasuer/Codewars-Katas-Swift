@@ -28,5 +28,6 @@
         <page name='ReversedString'/>
         <page name='SumOfPositive'/>
         <page name='DoubleArray'/>
+        <page name='Square(n)Sum'/>
     </pages>
 </playground>
