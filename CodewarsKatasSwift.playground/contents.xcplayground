@@ -27,5 +27,6 @@
         <page name='SimpleMultplication'/>
         <page name='ReversedString'/>
         <page name='SumOfPositive'/>
+        <page name='DoubleArray'/>
     </pages>
 </playground>
