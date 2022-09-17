@@ -29,5 +29,6 @@
         <page name='SumOfPositive'/>
         <page name='DoubleArray'/>
         <page name='Square(n)Sum'/>
+        <page name='QuarterOfYear'/>
     </pages>
 </playground>
